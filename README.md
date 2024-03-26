@@ -26,3 +26,4 @@ B站评论区留言抽奖
 - [ ] 评论+粉丝抽奖
 
 ## 效果如下
+-[评论区抽奖](https://www.bilibili.com/video/BV1DA4m1P7ZS)
